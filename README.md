@@ -40,7 +40,7 @@ MEDIA_ROOT = '/var/www/kittygram/media/' #ваш путь
 ```
 ***
 ### Настройка Gunicorn
-Идем в каталог /etc/systemd/system/ и создаем файл файл
+Идем в каталог /etc/systemd/system/ и создаем файл:
 ```
 nano /etc/systemd/system/gunicorn_kittygram.service
 ```
