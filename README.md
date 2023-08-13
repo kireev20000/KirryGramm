@@ -11,7 +11,7 @@
 ## Запуск проекта:
 Клонировать репозиторий
 ```sh
-git clone <ssh ссылка>
+git clone git@github.com:kireev20000/infra_sprint1.git
 ```
 Cоздать и активировать виртуальное окружение:
 ```
